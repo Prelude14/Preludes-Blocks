@@ -1,4 +1,7 @@
-# Preludes-Blocks
+<img align="right" src = "prelude'sblocksLOGO.png" width="48" />  
+
+# Preludes-Blocks   
+
 [Prelude's Blocks](https://legacy.curseforge.com/minecraft/mc-mods/preludes-blocks) is the official repository and issue-tracker for Prelude's Blocks, a custom block mod for Minecraft Java 1.21.1. 
 
 Currently it is made to work with the mod pack [Cottagemon](https://www.curseforge.com/minecraft/modpacks/cottagemon), so it is made to work with Neoforge 1.21.176 and Minecraft 1.21.1 **ONLY**.
