@@ -6,5 +6,7 @@
 
 Currently it is made to work with the mod pack [Cottagemon](https://www.curseforge.com/minecraft/modpacks/cottagemon), so it is made to work with Neoforge 1.21.176 and Minecraft 1.21.1 **ONLY**.
 
+All blocks can only be found in the "Functional Items" tab of the creative inventory, and they cannot be crafted as of yet.
+
 All blocks were made using [MCreator](https://mcreator.net/) and [Blockbench](https://www.blockbench.net/).
 
