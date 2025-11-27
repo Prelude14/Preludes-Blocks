@@ -1,0 +1,2 @@
+Updated from Version 1.0.0-beta to now include a second block, as well as actually release the mod since 1.0.0 was released as a beta test to see if I could upload my first mod. The new block has a 
+very similar design to the first, but it is mainly orange instead of blue, and it also lacks the animations and procedures of the first. 
