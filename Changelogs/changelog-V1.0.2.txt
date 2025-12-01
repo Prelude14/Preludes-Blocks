@@ -1,0 +1,3 @@
+Updated from version 1.0.1 to now include a 3rd new block, a custom made trash can that can actually store blocks inside a simple GUI. Doesn't delete the items over time or anything, it 
+just holds up to 3 stacks of items as an alternative to a chest essentially. Goal is to use them as a place to store a couple items for players to discover as they explore the world 
+as our server progresses.
