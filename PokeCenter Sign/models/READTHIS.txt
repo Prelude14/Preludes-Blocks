@@ -1,0 +1,2 @@
+So for 1.0.3 I wanted to make the PokeCenter Sign rotatable just like the Pokemart Sign, so I actually got rid of all the models for the Pokecenter Sign from 1.0.2, and just reused 
+the rotatingSign model and the rotatingSignAnimation from the Pokemart Sign. I've moved the old and leftover model files into the extras folder so they are still visible in the GitHub Repo. 
