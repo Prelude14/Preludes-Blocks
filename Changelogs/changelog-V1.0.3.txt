@@ -1,0 +1,4 @@
+Updated from version 1.0.2 so that the orange sign block now rotates exactly like the blue sign did, and also changed the trash can block to have a custom png in the player's hand instead 
+of using the vanilla bowl's placeholder png. It made sense to change the orange sign to rotate since it could use the same animations from the blue sign, and since the rotation is optional 
+(it has to be right clicked), I didn't see the point in making the block less versatile for no reason. Also, I started looking into making the garbage can work like a Lootr chest for our 
+server, and I'm really not sure I will ever be able to get that working. 
