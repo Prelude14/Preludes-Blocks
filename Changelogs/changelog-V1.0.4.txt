@@ -1,1 +1,2 @@
-Updated from version 1.0.3 by adding 5 new blocks, all of which are intended to be put together to form a 3x3 giant sign, either as a floor pattern or a wall. It was tricky to get the directions on each block's texture to work how I wanted, but overall I'm pretty pleased with how they turned out.
+Updated from version 1.0.3 by adding 5 new blocks, all of which are intended to be put together to form a 3x3 giant sign, either as a floor pattern or a wall. It was tricky to get the 
+directions on each block's texture to work how I wanted, but overall I'm pretty pleased with how they turned out.
